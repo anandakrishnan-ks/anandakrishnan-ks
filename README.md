@@ -1,16 +1,46 @@
-## Hi there 👋
+Anandakrishnan K S
 
-<!--
-**anandakrishnan-ks/anandakrishnan-ks** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Web Developer | PHP • JavaScript • React • WordPress • MySQL
 
-Here are some ideas to get you started:
+I build practical web applications, business systems and
+high-quality websites.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+👨‍💻 3+ years of professional development experience
+📍 Kerala, India
+🚀 Currently building full-stack applications
+
+━━━━━━━━━━━━━━━━━━━━
+
+TECHNOLOGIES
+
+PHP       JavaScript       React
+MySQL     WordPress        HTML/CSS
+MongoDB   Supabase         Git
+
+━━━━━━━━━━━━━━━━━━━━
+
+FEATURED PROJECTS
+
+🚀 Advantix CRM
+Business CRM & project management system
+
+🎬 Movie Review Platform
+MERN-based movie review and rating application
+
+💰 Work Share Calculator
+Revenue distribution management application
+
+🌐 WordPress Projects
+Business websites and custom WordPress implementations
+
+━━━━━━━━━━━━━━━━━━━━
+
+CURRENTLY LEARNING
+
+React • Node.js • MongoDB • Full-Stack Development
+
+━━━━━━━━━━━━━━━━━━━━
+
+CONNECT
+
+LinkedIn | Portfolio | Email
